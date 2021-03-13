@@ -1,4 +1,7 @@
 Smart ordering system project using IoT and AWS.
+
+<img width="703" alt="Smart ordering system diagram" src="https://user-images.githubusercontent.com/28150909/111044361-aa1f8100-847a-11eb-9fef-57e69fbbe608.png">
+
 We use the components below:
 - ESP32 board as micro controller
 - Two push buttons as input add product
